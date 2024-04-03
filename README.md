@@ -24,82 +24,82 @@ In this project, several Python libraries such as Pandas, NumPy, and Matplotlib 
 1. Techniques in grouping customer personalities using Machine Learning
    - Initial Data
 
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 1.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%201.png)
 
    - Performing feature engineering starting from dropping features and adding new features
 
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 2.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%202.png)
 
    - Performing Data Cleaning
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 3.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%203.png)
 
    At this stage, only dropna() is performed because the amount of missing data is not too significant.
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 4.png)   
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%204.png)   
 
    - Performing feature encoding for the education feature
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 5.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%205.png)
    
    - Performing feature standardization
      
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 6.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%206.png)
 
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 7.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%207.png)
 
    - Performing K-Means Clustering with the following results
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 8.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%208.png)
 
    - Finally, evaluation is done using silhouette score, with the following results
 
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 9.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%209.png)
 
 2. Customer behavior patterns
    To answer this question, I previously created a new feature, namely Cluster Feature obtained from the clustering results that I have done, then I visualized the clustering
    - User per Cluster
      
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 10.png) 
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%2010.png) 
 
    - Product per Cluster
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 11.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%2011.png)
 
    - Age per Cluster
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 12.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%2012.png)
 
    - Total Income per Cluster
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 13.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%2013.png)
 
    - Total Amount Spent per Cluster
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 14.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%2014.png)
 
    - Total Visit Web per Cluster
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 15.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%2015.png)
 
    - Deal Purchased per Cluster
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 16.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%2016.png)
 
    - CVR per Cluster
    
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 17.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%2017.png)
 
    - Accepted Campaign per Cluster
 
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 18.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%2018.png)
 
 3. Potential Impact
    If we focus on the High Spender Group and offer them more often for Gold product categories, then we will experience an increase in revenue.
 
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 19.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%2019.png)
 
-   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig 20.png)
+   ![Data Results](https://github.com/AzamFath/predict-customer-personality/blob/main/fig%2020.png)
 
 ## Conclusion
 The analysis results indicate that:
